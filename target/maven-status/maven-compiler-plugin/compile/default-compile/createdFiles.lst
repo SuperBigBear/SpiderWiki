@@ -1,0 +1,5 @@
+com\test\config\JsoupUtils.class
+com\test\config\WebConfigAdapter.class
+com\test\SpringbootWikiApplication.class
+com\test\api\WikiController.class
+com\test\config\ApiInterceptor.class
